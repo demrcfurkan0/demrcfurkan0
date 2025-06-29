@@ -13,7 +13,7 @@ I'm a Cybersecurity Engineer with a deep interest in offensive security and a st
 -   🔭 I’m currently focused on developing the **`attack-intel-platform`**, an open-source threat intelligence tool.
 -   🌱 I’m constantly improving my skills in **Red Teaming tactics** and **penetration testing methodologies**.
 -   💬 Ask me about **Python for security automation**, **Machine Learning for threat detection**, or **API security best practices**.
--   📫 How to reach me: **<!-- e-posta adresiniz veya en iyi iletişim yolunuz -->**
+-   📫 How to reach me: **demirci.furkan1@outlook.com**
 -   ⚡ Fun fact: I believe that to defend a system, you must first master the art of attacking it.
 
 ---
